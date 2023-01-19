@@ -1,2 +1,2 @@
 # playground-android
-Repo with examples that test different Android framework apis.
+Repo with simple examples to test the different Android framework apis.
